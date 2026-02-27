@@ -14,9 +14,10 @@ go run .
 
 - Cobra CLI with `--version` flag and exit code handling
 - `internal/term/` color system with NO_COLOR support
+- GitHub Actions CI (test matrix: ubuntu + macos) and release workflow
 - `.goreleaser.yml` for cross-platform releases
 - `CLAUDE.md` template for AI-assisted development
-- `docs/decisions/` directory for ADRs
+- `docs/decisions/` with ADR template
 
 ## After scaffolding
 
